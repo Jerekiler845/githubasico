@@ -1,0 +1,2 @@
+# githubasico
+github primer ejercicio
